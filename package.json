@@ -1,14 +1,17 @@
 {
   "name": "fpp-logger",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Winston logging transport customized for OSU Fire Protection Publications",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Tyson Cleary <tyson@beardon.com> (https://github.com/tyscorp)",
+  "contributors": [
+    "Aaron Bean <aaron.bean@beardon.com> (https://beardon.com)"
+  ],
   "license": "ISC",
   "dependencies": {
-    "winston": "^2.1.1"
+    "winston": "^2.4.5"
   }
 }
