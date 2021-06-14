@@ -1,5 +1,5 @@
 {
-  "name": "fpp-logger",
+  "name": "@osufpp/logger",
   "version": "1.0.1",
   "description": "Winston logging transport customized for OSU Fire Protection Publications",
   "main": "index.js",
@@ -13,5 +13,14 @@
   "license": "ISC",
   "dependencies": {
     "winston": "^2.4.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osufpp/fpp-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/osufpp/fpp-logger/issues"
+  },
+  "homepage": "https://github.com/osufpp/fpp-logger#readme"
 }
